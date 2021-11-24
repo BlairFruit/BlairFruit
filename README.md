@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlairFruit
 - 👀 I’m interested in coding video games. 
 - 🌱 I’m currently learning Haxeflixel
-- 💞️ I’m looking to collaborate on FNF Mods.
+- 💞️ I’m looking to collaborate on FNF Mods, mostly.
 - 📫 How to reach me: Discord (BlairFruit#1210) or twitter (@isaquelucasbr2)
 
 <!---
